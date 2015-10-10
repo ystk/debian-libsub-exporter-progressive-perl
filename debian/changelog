@@ -1,0 +1,51 @@
+libsub-exporter-progressive-perl (0.001011-1) unstable; urgency=medium
+
+  * Team upload.
+  * Imported Upstream version 0.001011
+  * Declare compliance with Debian policy 3.9.5
+
+ -- Salvatore Bonaccorso <carnil@debian.org>  Sat, 04 Jan 2014 10:45:53 +0100
+
+libsub-exporter-progressive-perl (0.001010-1) unstable; urgency=low
+
+  * Team upload.
+  * New upstream release.
+
+ -- gregor herrmann <gregoa@debian.org>  Fri, 11 Oct 2013 22:41:09 +0200
+
+libsub-exporter-progressive-perl (0.001009-1) unstable; urgency=low
+
+  * Team upload.
+  * New upstream release.
+  * Build dependency on Test::More 0.96 dropped.
+  * Set Standards-Version to 3.9.4 (no changes).
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 23 Mar 2013 14:17:21 +0100
+
+libsub-exporter-progressive-perl (0.001008-1) unstable; urgency=low
+
+  * Team upload.
+
+  [ Salvatore Bonaccorso ]
+  * Change Vcs-Git to canonical URI (git://anonscm.debian.org)
+  * Change search.cpan.org based URIs to metacpan.org based URIs
+
+  [ gregor herrmann ]
+  * New upstream release.
+  * Build-Depend on Test::More 0.96.
+
+ -- gregor herrmann <gregoa@debian.org>  Mon, 18 Feb 2013 19:03:33 +0100
+
+libsub-exporter-progressive-perl (0.001006-1) unstable; urgency=low
+
+  * Team upload.
+  * New upstream release.
+  * Add new upstream copyright holder.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 02 Sep 2012 17:44:16 +0200
+
+libsub-exporter-progressive-perl (0.001004-1) unstable; urgency=low
+
+  * Initial Release. (Closes: #684501)
+
+ -- Nuno Carvalho <smash@cpan.org>  Fri, 10 Aug 2012 01:47:33 +0100
